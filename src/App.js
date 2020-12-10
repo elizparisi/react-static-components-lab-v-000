@@ -11,6 +11,7 @@ class App extends Component {
 				<CatComponent />
 				<GraceHopperQuoteComponent />
 				<MouseComponent />
+				{/* one more component missing */}
 			</div>
 		);
 	}
